@@ -17,6 +17,7 @@
     "editor.renderLineHighlight": "gutter",
     "editor.rulers": [80, 120],
     "editor.parameterHints.enabled": false,
+    "editor.quickSuggestionsDelay": 1500,
     "editor.guides.bracketPairs":"active",
     "editor.bracketPairColorization.enabled": true,
     "editor.suggest.snippetsPreventQuickSuggestions": false,
